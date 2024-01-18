@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hello, sign in</name>
+   <tag></tag>
+   <elementGuidId>c0e1fcd1-5819-4f8f-8b7d-f93774252a43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='nav-link-accountList-nav-line-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-link-accountList-nav-line-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dcb565a5-53cf-47c7-a2c0-bec839481731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav-link-accountList-nav-line-1</value>
+      <webElementGuid>70f50844-641e-4d8b-8cf0-564d33d50d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-line-1 nav-progressive-content</value>
+      <webElementGuid>684d8d63-d15b-455f-a0f5-79787d828ff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello, sign in</value>
+      <webElementGuid>ab3bfcf5-d9b6-4243-b0c9-b90fa2196aa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-link-accountList-nav-line-1&quot;)</value>
+      <webElementGuid>4917f194-3035-4bed-8770-94c778d3b2a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='nav-link-accountList-nav-line-1']</value>
+      <webElementGuid>79f7c433-0578-470c-8ead-150985e08bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='nav-link-accountList']/div/span</value>
+      <webElementGuid>f00bfd59-732f-4c65-84f3-c344c2bd816e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/following::span[2]</value>
+      <webElementGuid>7d66ee0c-51ac-4a48-802c-c115d8bb3bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Amazon.in'])[1]/following::span[7]</value>
+      <webElementGuid>b8ce8d3b-5252-4fb4-b8ac-a55ff328e46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account &amp; Lists'])[1]/preceding::span[1]</value>
+      <webElementGuid>8d3b716a-efc7-4138-8d94-966f382bf8b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Returns'])[1]/preceding::span[3]</value>
+      <webElementGuid>6aaf4aa2-0fc7-4e58-a01d-0d4eb6e09172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hello, sign in']/parent::*</value>
+      <webElementGuid>c7169b4e-e503-40c3-8973-6e7bab8383ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/span</value>
+      <webElementGuid>8ff93bcd-830a-4ed2-b117-b2aa6fccd71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'nav-link-accountList-nav-line-1' and (text() = 'Hello, sign in' or . = 'Hello, sign in')]</value>
+      <webElementGuid>132accb6-2639-4769-bc5b-c833de28e785</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forgot Password</name>
+   <tag></tag>
+   <elementGuidId>bc56a1b4-3361-4876-9d96-6dccde77a49b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='auth-fpp-link-bottom']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#auth-fpp-link-bottom</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>06ceec7a-dad5-4c89-9c79-f8eada54dc1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>auth-fpp-link-bottom</value>
+      <webElementGuid>9cec04fe-609d-439c-acc5-72ef3273293c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>ed0ac1af-88ac-49cd-891f-60949326d2ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>39e78435-fbd9-436c-b3f4-241d401aff02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.amazon.in/ap/forgotpassword?showRememberMe=true&amp;openid.pape.max_auth_age=0&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;signInRedirectToFPPThreshold=5&amp;pageId=inflex&amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_ya_signin&amp;prevRID=HWJ12BVY17K3MNH2EVM1&amp;openid.assoc_handle=inflex&amp;openid.mode=checkid_setup&amp;prepopulatedLoginId=eyJjaXBoZXIiOiJoY3ZyNXVYME1xRStTb0hxeHU0enZ1aTJFYnJGQTBSSUo2MTBZcmFxaHdrPSIsInZlcnNpb24iOjEsIklWIjoiU21RM3p0NUNNNTNyNENJSGxMZzFMZz09In0%3D&amp;failedSignInCount=1&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;timestamp=1705596897000</value>
+      <webElementGuid>f8126fab-d897-44ba-9a98-2f20e38d87de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  Forgot Password
+</value>
+      <webElementGuid>828ad2ac-0623-4519-ac4e-8eef3230cfb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;auth-fpp-link-bottom&quot;)</value>
+      <webElementGuid>0523f1b1-aced-4328-bda4-a4affa7fbb75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='auth-fpp-link-bottom']</value>
+      <webElementGuid>6e420518-0410-4c0e-baad-1a0c8e405e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authportal-main-section']/div[2]/div/div[2]/div/form/div/div/div/div[2]/a</value>
+      <webElementGuid>11ae53c6-d71f-48b6-b288-ac2725e0f32a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forgot Password')]</value>
+      <webElementGuid>5b301193-933a-47bc-8e8b-0b5755b9e3b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::a[1]</value>
+      <webElementGuid>4e51293d-5ce2-4024-a060-76f626ee30e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change'])[1]/following::a[1]</value>
+      <webElementGuid>84fa5aa6-49f3-487f-b2f3-6f75062f8b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your password'])[1]/preceding::a[1]</value>
+      <webElementGuid>85e534b5-9259-4b6c-bc57-4c95ef540e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forgot Password']/parent::*</value>
+      <webElementGuid>220c117e-95b9-40d9-9415-7d0bb288c70f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.amazon.in/ap/forgotpassword?showRememberMe=true&amp;openid.pape.max_auth_age=0&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;signInRedirectToFPPThreshold=5&amp;pageId=inflex&amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_ya_signin&amp;prevRID=HWJ12BVY17K3MNH2EVM1&amp;openid.assoc_handle=inflex&amp;openid.mode=checkid_setup&amp;prepopulatedLoginId=eyJjaXBoZXIiOiJoY3ZyNXVYME1xRStTb0hxeHU0enZ1aTJFYnJGQTBSSUo2MTBZcmFxaHdrPSIsInZlcnNpb24iOjEsIklWIjoiU21RM3p0NUNNNTNyNENJSGxMZzFMZz09In0%3D&amp;failedSignInCount=1&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;timestamp=1705596897000')]</value>
+      <webElementGuid>66c62942-22bc-4b62-b74b-45cf1af151fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>1a755f2f-f18f-4937-b64b-3c4fc31385d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'auth-fpp-link-bottom' and @href = 'https://www.amazon.in/ap/forgotpassword?showRememberMe=true&amp;openid.pape.max_auth_age=0&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;signInRedirectToFPPThreshold=5&amp;pageId=inflex&amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_ya_signin&amp;prevRID=HWJ12BVY17K3MNH2EVM1&amp;openid.assoc_handle=inflex&amp;openid.mode=checkid_setup&amp;prepopulatedLoginId=eyJjaXBoZXIiOiJoY3ZyNXVYME1xRStTb0hxeHU0enZ1aTJFYnJGQTBSSUo2MTBZcmFxaHdrPSIsInZlcnNpb24iOjEsIklWIjoiU21RM3p0NUNNNTNyNENJSGxMZzFMZz09In0%3D&amp;failedSignInCount=1&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;timestamp=1705596897000' and (text() = '
+  Forgot Password
+' or . = '
+  Forgot Password
+')]</value>
+      <webElementGuid>b4852e9f-2275-4597-9a15-40572681ea99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
