@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>image mobile</name>
+   <tag></tag>
+   <elementGuidId>3ee8fddc-77a8-4717-b494-110664cf8a9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grid-main-container']/div[3]/div/div/div/div/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-image-container.a-dynamic-image-container.aok-align-center-horizontally.DealImage-module__image_1aM-S1pMSsajamWgCRXa6y.DealImage-module__imageAspectRatioFix_DJdrM5BSpMhSiPB6czCA4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f992eafc-b7d9-46a2-a6b9-df7649acb482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-image-container a-dynamic-image-container aok-align-center-horizontally DealImage-module__image_1aM-S1pMSsajamWgCRXa6y DealImage-module__imageAspectRatioFix_DJdrM5BSpMhSiPB6czCA4</value>
+      <webElementGuid>261158f4-01d0-4d4f-9903-684851b69f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid-main-container&quot;)/div[@class=&quot;a-row Grid-module__gridSection_1SEJTeTsU88s6aVeuuekAp&quot;]/div[@class=&quot;Grid-module__gridDisplayGrid_2X7cDTY7pjoTwwvSRQbt9Y&quot;]/div[@class=&quot;DealGridItem-module__dealItemDisplayGrid_e7RQVFWSOrwXBX4i24Tqg DealGridItem-module__withBorders_2jNNLI6U1oDls7Ten3Dttl DealGridItem-module__withoutActionButton_2OI8DAanWNRCagYDL2iIqN&quot;]/div[@class=&quot;DealGridItem-module__dealItemContent_1vFddcq1F8pUxM8dd9FW32&quot;]/div[@class=&quot;DealCard-module__card_1u9yKYV4EIA-fL4ibeMVIU DealCard-module__cardWithoutActionButton_1K_FldevdoXxE8uy5pzBmr&quot;]/a[@class=&quot;a-link-normal DealCard-module__linkOutlineOffset_2fc037WfeGSjbFp1CAhOUn&quot;]/div[@class=&quot;DealCard-module__cardImageVertical_1m9E6mjbE6UbrGJwvn6GKM DealCard-module__imageWithPadding_Qk9F2b8bUeXPk8FUBnSVG&quot;]/div[@class=&quot;a-image-container a-dynamic-image-container aok-align-center-horizontally DealImage-module__image_1aM-S1pMSsajamWgCRXa6y DealImage-module__imageAspectRatioFix_DJdrM5BSpMhSiPB6czCA4&quot;]</value>
+      <webElementGuid>b3dff2b0-154b-4845-8e34-d7ab50ba474a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grid-main-container']/div[3]/div/div/div/div/a/div/div</value>
+      <webElementGuid>ea0e11a9-09e3-469a-8793-645fbb5c688e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deals grid'])[1]/following::div[6]</value>
+      <webElementGuid>a66fde11-4234-41cc-aebe-b8031d4087f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loaded new deals'])[1]/following::div[7]</value>
+      <webElementGuid>edaebdee-d06d-4be3-8977-9ab311b25d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Up to 33% off'])[1]/preceding::div[1]</value>
+      <webElementGuid>96e784e6-0b4e-4c7c-8fa2-7c17614e78c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deal'])[1]/preceding::div[2]</value>
+      <webElementGuid>6e95af3e-4c6a-436a-a60c-846bc87ddf59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div</value>
+      <webElementGuid>b70e96bc-717e-4058-ad00-abb4ebe361df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>product-1</name>
+   <tag></tag>
+   <elementGuidId>c50435f4-c779-4a93-a3a0-b0dabde85a7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grid-main-container']/div[3]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.DealCard-module__contentWithPadding_1mEcEYf1DvbvZJ9zcQCxtw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6ffa925b-f6c5-4e5a-acbf-fdae43344b91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DealCard-module__contentWithPadding_1mEcEYf1DvbvZJ9zcQCxtw</value>
+      <webElementGuid>8872a73d-36d9-4f27-a768-f1cfc7c88042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Up to 33% offDealUp to 33% offDealNokia Feature Phones, starting ₹999 only</value>
+      <webElementGuid>3603e609-9e6d-4c35-9f31-5b48f0436680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid-main-container&quot;)/div[@class=&quot;a-row Grid-module__gridSection_1SEJTeTsU88s6aVeuuekAp&quot;]/div[@class=&quot;Grid-module__gridDisplayGrid_2X7cDTY7pjoTwwvSRQbt9Y&quot;]/div[@class=&quot;DealGridItem-module__dealItemDisplayGrid_e7RQVFWSOrwXBX4i24Tqg DealGridItem-module__withBorders_2jNNLI6U1oDls7Ten3Dttl DealGridItem-module__withoutActionButton_2OI8DAanWNRCagYDL2iIqN&quot;]/div[@class=&quot;DealGridItem-module__dealItemContent_1vFddcq1F8pUxM8dd9FW32&quot;]/div[@class=&quot;DealCard-module__card_1u9yKYV4EIA-fL4ibeMVIU DealCard-module__cardWithoutActionButton_1K_FldevdoXxE8uy5pzBmr&quot;]/div[@class=&quot;DealCard-module__contentWithPadding_1mEcEYf1DvbvZJ9zcQCxtw&quot;]</value>
+      <webElementGuid>8f5b2ab2-0fca-4e9a-aa29-c33ce44af8bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grid-main-container']/div[3]/div/div/div/div/div</value>
+      <webElementGuid>f93947a9-3e45-4a65-ad2b-f58d694c29bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deals grid'])[1]/following::div[7]</value>
+      <webElementGuid>323e87a6-ff30-456f-accc-bc16a5f062b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loaded new deals'])[1]/following::div[8]</value>
+      <webElementGuid>408b93b3-5f1c-429a-93f0-df18a4029843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div/div/div</value>
+      <webElementGuid>c746c448-3ea6-4bdc-bd84-980fcd75c5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Up to 33% offDealUp to 33% offDealNokia Feature Phones, starting ₹999 only' or . = 'Up to 33% offDealUp to 33% offDealNokia Feature Phones, starting ₹999 only')]</value>
+      <webElementGuid>df273d47-6c22-4fc0-8775-dc4e100642b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

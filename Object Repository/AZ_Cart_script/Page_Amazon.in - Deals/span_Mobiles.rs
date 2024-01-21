@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mobiles</name>
+   <tag></tag>
+   <elementGuidId>41668943-8999-414e-8e10-31374518ca67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='anonCarousel1']/ol/li[4]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f153e3c9-09f6-4e4d-8411-396e2eae052d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>GridPresets-module__gridPresetsLargeItem_2xPgV2VoJCncjGPj18in1h</value>
+      <webElementGuid>4f07d8b9-cab4-41c4-9bb9-aaa237a9392f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mobiles</value>
+      <webElementGuid>a5ced52f-bdba-4ab5-9d2a-d525d4473c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;anonCarousel1&quot;)/ol[@class=&quot;a-carousel&quot;]/li[@class=&quot;a-carousel-card GridPresets-module__gridPresetElement_LK6M4HpuBZHEa3NTWKSb9&quot;]/a[1]/span[@class=&quot;GridPresets-module__gridPresetsLargeItem_2xPgV2VoJCncjGPj18in1h&quot;]</value>
+      <webElementGuid>1e3a45d6-8472-46a1-af3e-cedf27ad5bbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='anonCarousel1']/ol/li[4]/a/span[2]</value>
+      <webElementGuid>7aa5a7a3-cfe1-4c94-b8c8-c595e2cfa672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lightning Deals'])[1]/following::span[2]</value>
+      <webElementGuid>5b49d547-687c-4caf-86f3-66d32d801936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deal of the Day'])[1]/following::span[4]</value>
+      <webElementGuid>1f470d2a-d8ea-475d-950b-4ded2ca0db31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electronics'])[3]/preceding::span[2]</value>
+      <webElementGuid>47395d2d-a54f-4345-923d-e9104d0cc23b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobiles &amp; computer accessories'])[1]/preceding::span[4]</value>
+      <webElementGuid>105242f0-0bc5-4dc6-b84c-dae88e32f05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span[2]</value>
+      <webElementGuid>c6ba30cb-9855-4913-ba8d-11b4b528284c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mobiles' or . = 'Mobiles')]</value>
+      <webElementGuid>ab7e9d2c-bc97-4994-98b7-3179b503d1ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add to Cart</name>
+   <tag></tag>
+   <elementGuidId>84f441fa-0ac2-49a2-9b7b-9f8ba0b2714b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='submit.add-to-cart']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>252ed851-cf2d-4e15-ba5f-5a5a4d058e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submit.add-to-cart</value>
+      <webElementGuid>b7ea4297-111a-477c-94e4-59a624c20c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button a-spacing-small a-button-primary a-button-icon natc-enabled</value>
+      <webElementGuid>4d09b55b-f5a5-4301-9ed3-36a5e703a270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Cart</value>
+      <webElementGuid>cb48a896-466e-4ef1-8223-4167e65dbece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submit.add-to-cart&quot;)</value>
+      <webElementGuid>bca03f71-485c-4e81-bb86-9ec5341ddaa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='submit.add-to-cart']</value>
+      <webElementGuid>b13e6afb-4191-402e-ae98-92fe35cf019b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='atc-declarative']/span</value>
+      <webElementGuid>24dc12e6-40ae-4b8e-b3cd-2a302d8b941a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping cost, delivery date and order total (including tax) shown at checkout.'])[1]/following::span[4]</value>
+      <webElementGuid>c98bb2ca-0215-48dc-ba7e-c73eb500b6b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initial payment breakdown'])[1]/following::span[5]</value>
+      <webElementGuid>0cc0bd62-5312-4e22-919b-7314d959aa63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The enhancements that you chose are not available for this seller.'])[1]/preceding::span[6]</value>
+      <webElementGuid>5dd14d01-e84b-46ef-ba55-b12e647f0f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To add the following enhancements to your purchase, choose a different seller.'])[1]/preceding::span[8]</value>
+      <webElementGuid>9a7e21c2-41c5-41c1-87f6-4af251566ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[37]/div/span/span</value>
+      <webElementGuid>dd95b96c-5b1a-4e0e-bba0-dde02dc3addc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'submit.add-to-cart' and (text() = 'Add to Cart' or . = 'Add to Cart')]</value>
+      <webElementGuid>9152eb21-43a8-4d83-8244-bf28447a7886</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
