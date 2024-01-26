@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add a new address</name>
+   <tag></tag>
+   <elementGuidId>c2c06b9d-8c7d-4a2c-9384-7b87f47daee8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#add-new-address-popover-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='add-new-address-popover-link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>996b8078-a93e-46a7-a822-0b07c100c743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add-new-address-popover-link</value>
+      <webElementGuid>66997154-95d8-4f81-baee-006487866544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-add-address-ref</name>
+      <type>Main</type>
+      <value>chk_addr_add_sec</value>
+      <webElementGuid>a142319b-0a31-4869-9bf1-fe704b212231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-base a-link-normal</value>
+      <webElementGuid>604ec12f-6b8c-4c44-bfd0-2de443f5fddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>f0842748-7bb0-41af-8636-8eac5bb77aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Add a new address
+      </value>
+      <webElementGuid>6d95f272-a486-4279-bd3b-3623f7885412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-new-address-popover-link&quot;)</value>
+      <webElementGuid>99b2934f-208d-480e-98c8-7eb43458f276</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='add-new-address-popover-link']</value>
+      <webElementGuid>096e89d9-2545-4028-ad8b-f30a93170d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='address-list']/div/div/div/div/span/a</value>
+      <webElementGuid>3c406e93-05ce-42aa-907b-16bf6141f962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add a new address')]</value>
+      <webElementGuid>4670295a-fead-4343-8ba5-7fbae269f51f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit address'])[1]/following::a[2]</value>
+      <webElementGuid>9bb6bedf-e94a-480d-a546-6679f64a9773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ram'])[1]/following::a[3]</value>
+      <webElementGuid>6bc0ff95-c646-4635-a663-cb874a476861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your pickup locations'])[1]/preceding::a[1]</value>
+      <webElementGuid>63ee3b54-1ede-4d8a-a045-15e001c12e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a new address'])[2]/preceding::a[2]</value>
+      <webElementGuid>7cdfea01-d64b-4781-bb44-2c82d57d93fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add a new address']/parent::*</value>
+      <webElementGuid>184fcb12-cbd4-4925-96de-cc8ac6e8ea2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[3]</value>
+      <webElementGuid>e20a998a-8314-4355-a925-b3267fd2ec76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/a</value>
+      <webElementGuid>0f0379c0-d8ef-4dcd-9de1-1e7981ca501b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'add-new-address-popover-link' and @href = '#' and (text() = '
+        Add a new address
+      ' or . = '
+        Add a new address
+      ')]</value>
+      <webElementGuid>bd4b1dfb-04ef-45c3-a4c3-8f24a52068ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

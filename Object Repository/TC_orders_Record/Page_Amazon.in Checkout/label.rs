@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label</name>
+   <tag></tag>
+   <elementGuidId>891e5443-725a-4c46-ad75-b4a9a339622b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-fixed-left-grid-col.a-col-left > div.a-radio > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pp-91CgmX-122']/div/div/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>af06f702-515b-4586-aee3-36c12e778810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>pp-91CgmX-123</value>
+      <webElementGuid>d51c44f4-6799-4517-9b4e-33b935ec7171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pp-91CgmX-122&quot;)/div[@class=&quot;a-box pmts-instrument-box&quot;]/div[@class=&quot;a-box-inner a-padding-small&quot;]/div[@class=&quot;a-fixed-left-grid&quot;]/div[@class=&quot;a-fixed-left-grid-inner&quot;]/div[@class=&quot;a-fixed-left-grid-col a-col-left&quot;]/div[@class=&quot;a-radio&quot;]/label[1]</value>
+      <webElementGuid>e4ddb2a7-276e-4f60-bcc5-4f8902bb93d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pp-91CgmX-122']/div/div/div/div/div/div/label</value>
+      <webElementGuid>ffcdd9e6-9999-4963-b919-4d3f1fb7c2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ICICI Bank'])[2]/following::label[1]</value>
+      <webElementGuid>1224db2e-dadc-458f-a552-88cf07c03d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Net Banking'])[2]/following::label[1]</value>
+      <webElementGuid>61df3c64-083d-4339-8d40-7402a917f7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other UPI Apps'])[1]/preceding::label[1]</value>
+      <webElementGuid>a8ab2ba3-b6c5-4a33-88b9-0ee54d6f278a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please uncheck Amazon Pay Balance option to pay via UPI.'])[1]/preceding::label[1]</value>
+      <webElementGuid>aa3b240e-8616-4301-a7c2-63a410b551c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/label</value>
+      <webElementGuid>88f018ad-c767-4203-96da-570b1978cd43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

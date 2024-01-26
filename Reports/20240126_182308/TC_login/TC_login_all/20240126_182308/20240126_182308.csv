@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_login_all,Chrome 120.0.0.0,,,2024-01-26 18:23:18,2024-01-26 18:25:21,2m - 2.494s,PASSED
+,,,,,,,
+Test Cases/AZ_Homepage/TC_Amazon_login_001,Chrome 120.0.0.0,,,2024-01-26 18:23:19,2024-01-26 18:24:34,1m - 14.650s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-26 18:23:20,2024-01-26 18:23:39,18.528s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,2024-01-26 18:23:39,2024-01-26 18:23:48,9.164s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in""))",Chrome 120.0.0.0,,,2024-01-26 18:23:48,2024-01-26 18:24:06,17.856s,PASSED
+"setText(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/input_Email or mobile phone number_email""), ""ramkumar@gmail.com"")",Chrome 120.0.0.0,,,2024-01-26 18:24:06,2024-01-26 18:24:12,6.316s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402""))",Chrome 120.0.0.0,,,2024-01-26 18:24:12,2024-01-26 18:24:16,3.688s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/input_Forgot Password_password""), ""+mJ1/ixjegi/1jYArk0UbQ=="")",Chrome 120.0.0.0,,,2024-01-26 18:24:16,2024-01-26 18:24:17,1.106s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your password_rememberMe""))",Chrome 120.0.0.0,,,2024-01-26 18:24:17,2024-01-26 18:24:17,0.692s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your password_signInSubmit""))",Chrome 120.0.0.0,,,2024-01-26 18:24:17,2024-01-26 18:24:18,0.905s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/a_Forgot Password""))",Chrome 120.0.0.0,,,2024-01-26 18:24:18,2024-01-26 18:24:23,5.100s,PASSED
+"setText(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Email or mobile phone number_email""), ""ramkumar@gmail.com"")",Chrome 120.0.0.0,,,2024-01-26 18:24:23,2024-01-26 18:24:25,2.024s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Enter your email or mobile phone numb_fc7402""))",Chrome 120.0.0.0,,,2024-01-26 18:24:25,2024-01-26 18:24:27,1.614s,PASSED
+"setText(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_ZIP code (or Postal Code)_zipCode""), ""5415o442o"")",Chrome 120.0.0.0,,,2024-01-26 18:24:27,2024-01-26 18:24:29,1.735s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Enter your email or mobile phone numb_fc7402""))",Chrome 120.0.0.0,,,2024-01-26 18:24:29,2024-01-26 18:24:31,2.022s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-26 18:24:31,2024-01-26 18:24:34,2.889s,PASSED
+,,,,,,,
+Test Cases/AZ_Homepage/TC_AZ_login_manual,Chrome 120.0.0.0,,,2024-01-26 18:24:34,2024-01-26 18:25:21,47.163s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-26 18:24:35,2024-01-26 18:24:44,9.696s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,2024-01-26 18:24:44,2024-01-26 18:24:56,11.590s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2024-01-26 18:24:56,2024-01-26 18:24:56,0.555s,PASSED
+"click(findTestObject(""AZ_login_manual/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/span_Hello, sign in""))",Chrome 120.0.0.0,,,2024-01-26 18:24:56,2024-01-26 18:25:09,12.343s,PASSED
+"setText(findTestObject(""AZ_login_manual/Page_Amazon Sign In/input_Email or mobile phone number_email""), ""ramkumar@gmail.com"")",Chrome 120.0.0.0,,,2024-01-26 18:25:09,2024-01-26 18:25:11,2.110s,PASSED
+"click(findTestObject(""AZ_login_manual/Page_Amazon Sign In/input_Enter your email or mobile phone number_continue""))",Chrome 120.0.0.0,,,2024-01-26 18:25:11,2024-01-26 18:25:13,1.944s,PASSED
+"setText(findTestObject(""AZ_login_manual/Page_Amazon Sign In/input_Forgot Password_password""), ""login@123"")",Chrome 120.0.0.0,,,2024-01-26 18:25:13,2024-01-26 18:25:15,2.216s,PASSED
+"click(findTestObject(""AZ_login_manual/Page_Amazon Sign In/input_Enter your password_signInSubmit""))",Chrome 120.0.0.0,,,2024-01-26 18:25:15,2024-01-26 18:25:16,1.277s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-26 18:25:16,2024-01-26 18:25:21,4.662s,PASSED

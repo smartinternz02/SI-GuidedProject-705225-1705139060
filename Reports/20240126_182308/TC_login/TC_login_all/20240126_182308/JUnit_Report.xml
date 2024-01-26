@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TC_login_all" time="122.494" tests="2" failures="0" errors="0">
+   <testsuite name="TC_login_all" tests="2" failures="0" errors="0" time="122.494" skipped="0" timestamp="2024-01-26 18:23:18" hostname="SDC - DESKTOP-RQ2KGBA" id="Test Suites/TC_login/TC_login_all">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\SDC\\git\\SI-GuidedProject-705225-1705139060\\Reports\\20240126_182308\\TC_login\\TC_login_all\\20240126_182308"/>
+         <property name="logFiles" value="C:\\Users\\SDC\\git\\SI-GuidedProject-705225-1705139060\\Reports\\20240126_182308\\TC_login\\TC_login_all\\20240126_182308\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="SDC - DESKTOP-RQ2KGBA"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.232"/>
+         <property name="sessionId" value="02c72a9c048bae4e6cab2f0e24ef96e7"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/AZ_Homepage/TC_Amazon_login_001" time="74.65" classname="Test Cases/AZ_Homepage/TC_Amazon_login_001" status="PASSED">
+         <system-out><![CDATA[2024-01-26 18:23:19 - [TEST_CASE][PASSED] - Test Cases/AZ_Homepage/TC_Amazon_login_001: Test Cases/AZ_Homepage/TC_Amazon_login_001
+
+2024-01-26 18:23:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-01-26 18:23:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-01-26 18:23:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-01-26 18:23:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-01-26 18:23:39 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+2024-01-26 18:23:48 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+2024-01-26 18:23:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_login_record/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in")): Object: 'Object Repository/AZ_login_record/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in' is clicked on
+
+2024-01-26 18:24:06 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_login_record/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in' is clicked on
+
+2024-01-26 18:24:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/AZ_login_record/Page_Amazon Sign In/input_Email or mobile phone number_email"), "ramkumar@gmail.com"): Text 'ramkumar@gmail.com' is set on object 'Object Repository/AZ_login_record/Page_Amazon Sign In/input_Email or mobile phone number_email'
+
+2024-01-26 18:24:12 - [MESSAGE][PASSED] - Text 'ramkumar@gmail.com' is set on object 'Object Repository/AZ_login_record/Page_Amazon Sign In/input_Email or mobile phone number_email'
+
+2024-01-26 18:24:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402")): Object: 'Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+2024-01-26 18:24:16 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+2024-01-26 18:24:16 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/AZ_login_record/Page_Amazon Sign In/input_Forgot Password_password"), "+mJ1/ixjegi/1jYArk0UbQ=="): Text ****** has been set on object 'Object Repository/AZ_login_record/Page_Amazon Sign In/input_Forgot Password_password'
+
+2024-01-26 18:24:17 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/AZ_login_record/Page_Amazon Sign In/input_Forgot Password_password'
+
+2024-01-26 18:24:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your password_rememberMe")): Object: 'Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your password_rememberMe' is clicked on
+
+2024-01-26 18:24:17 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your password_rememberMe' is clicked on
+
+2024-01-26 18:24:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your password_signInSubmit")): Object: 'Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your password_signInSubmit' is clicked on
+
+2024-01-26 18:24:18 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your password_signInSubmit' is clicked on
+
+2024-01-26 18:24:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_login_record/Page_Amazon Sign In/a_Forgot Password")): Object: 'Object Repository/AZ_login_record/Page_Amazon Sign In/a_Forgot Password' is clicked on
+
+2024-01-26 18:24:23 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_login_record/Page_Amazon Sign In/a_Forgot Password' is clicked on
+
+2024-01-26 18:24:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Email or mobile phone number_email"), "ramkumar@gmail.com"): Text 'ramkumar@gmail.com' is set on object 'Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Email or mobile phone number_email'
+
+2024-01-26 18:24:25 - [MESSAGE][PASSED] - Text 'ramkumar@gmail.com' is set on object 'Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Email or mobile phone number_email'
+
+2024-01-26 18:24:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Enter your email or mobile phone numb_fc7402")): Object: 'Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+2024-01-26 18:24:27 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+2024-01-26 18:24:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_ZIP code (or Postal Code)_zipCode"), "5415o442o"): Text '5415o442o' is set on object 'Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_ZIP code (or Postal Code)_zipCode'
+
+2024-01-26 18:24:29 - [MESSAGE][PASSED] - Text '5415o442o' is set on object 'Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_ZIP code (or Postal Code)_zipCode'
+
+2024-01-26 18:24:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Enter your email or mobile phone numb_fc7402")): Object: 'Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+2024-01-26 18:24:31 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+2024-01-26 18:24:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-01-26 18:24:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/AZ_Homepage/TC_AZ_login_manual" time="47.163" classname="Test Cases/AZ_Homepage/TC_AZ_login_manual" status="PASSED">
+         <system-out><![CDATA[2024-01-26 18:24:34 - [TEST_CASE][PASSED] - Test Cases/AZ_Homepage/TC_AZ_login_manual: Test Cases/AZ_Homepage/TC_AZ_login_manual
+
+2024-01-26 18:24:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-01-26 18:24:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-01-26 18:24:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-01-26 18:24:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-01-26 18:24:44 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+2024-01-26 18:24:56 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+2024-01-26 18:24:56 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-01-26 18:24:56 - [MESSAGE][PASSED] - Current window maximized
+
+2024-01-26 18:24:56 - [TEST_STEP][PASSED] - click(findTestObject("AZ_login_manual/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/span_Hello, sign in")): Object: 'Object Repository/AZ_login_manual/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/span_Hello, sign in' is clicked on
+
+2024-01-26 18:25:09 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_login_manual/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/span_Hello, sign in' is clicked on
+
+2024-01-26 18:25:09 - [TEST_STEP][PASSED] - setText(findTestObject("AZ_login_manual/Page_Amazon Sign In/input_Email or mobile phone number_email"), "ramkumar@gmail.com"): Text 'ramkumar@gmail.com' is set on object 'Object Repository/AZ_login_manual/Page_Amazon Sign In/input_Email or mobile phone number_email'
+
+2024-01-26 18:25:11 - [MESSAGE][PASSED] - Text 'ramkumar@gmail.com' is set on object 'Object Repository/AZ_login_manual/Page_Amazon Sign In/input_Email or mobile phone number_email'
+
+2024-01-26 18:25:11 - [TEST_STEP][PASSED] - click(findTestObject("AZ_login_manual/Page_Amazon Sign In/input_Enter your email or mobile phone number_continue")): Object: 'Object Repository/AZ_login_manual/Page_Amazon Sign In/input_Enter your email or mobile phone number_continue' is clicked on
+
+2024-01-26 18:25:13 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_login_manual/Page_Amazon Sign In/input_Enter your email or mobile phone number_continue' is clicked on
+
+2024-01-26 18:25:13 - [TEST_STEP][PASSED] - setText(findTestObject("AZ_login_manual/Page_Amazon Sign In/input_Forgot Password_password"), "login@123"): Text 'login@123' is set on object 'Object Repository/AZ_login_manual/Page_Amazon Sign In/input_Forgot Password_password'
+
+2024-01-26 18:25:15 - [MESSAGE][PASSED] - Text 'login@123' is set on object 'Object Repository/AZ_login_manual/Page_Amazon Sign In/input_Forgot Password_password'
+
+2024-01-26 18:25:15 - [TEST_STEP][PASSED] - click(findTestObject("AZ_login_manual/Page_Amazon Sign In/input_Enter your password_signInSubmit")): Object: 'Object Repository/AZ_login_manual/Page_Amazon Sign In/input_Enter your password_signInSubmit' is clicked on
+
+2024-01-26 18:25:16 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_login_manual/Page_Amazon Sign In/input_Enter your password_signInSubmit' is clicked on
+
+2024-01-26 18:25:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-01-26 18:25:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-01-26 18:23:18 - [TEST_SUITE][PASSED] - TC_login_all: Test Cases/AZ_Homepage/TC_AZ_login_manual]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

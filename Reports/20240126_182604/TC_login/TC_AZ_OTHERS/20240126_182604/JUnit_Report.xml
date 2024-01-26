@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TC_AZ_OTHERS" time="325.977" tests="3" failures="1" errors="0">
+   <testsuite name="TC_AZ_OTHERS" tests="3" failures="1" errors="0" time="325.977" skipped="0" timestamp="2024-01-26 18:26:13" hostname="SDC - DESKTOP-RQ2KGBA" id="Test Suites/TC_login/TC_AZ_OTHERS">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\SDC\\git\\SI-GuidedProject-705225-1705139060\\Reports\\20240126_182604\\TC_login\\TC_AZ_OTHERS\\20240126_182604"/>
+         <property name="logFiles" value="C:\\Users\\SDC\\git\\SI-GuidedProject-705225-1705139060\\Reports\\20240126_182604\\TC_login\\TC_AZ_OTHERS\\20240126_182604\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\SDC\\git\\SI-GuidedProject-705225-1705139060\\Reports\\20240126_182604\\TC_login\\TC_AZ_OTHERS\\20240126_182604\\1706274099198.png"/>
+         <property name="hostName" value="SDC - DESKTOP-RQ2KGBA"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.232"/>
+         <property name="sessionId" value="f33aec0d20ea857d0edfd4d3a3a00355"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/AZ_Homepage/category and search" time="75.608" classname="Test Cases/AZ_Homepage/category and search" status="PASSED">
+         <system-out><![CDATA[2024-01-26 18:26:14 - [TEST_CASE][PASSED] - Test Cases/AZ_Homepage/category and search: Test Cases/AZ_Homepage/category and search
+
+2024-01-26 18:26:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-01-26 18:26:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-01-26 18:26:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-01-26 18:26:32 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-01-26 18:26:32 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+2024-01-26 18:26:41 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+2024-01-26 18:26:41 - [TEST_STEP][PASSED] - setText(findTestObject("DDT_category_excel/Page_home_AZ/input_Search Amazon.in_field-keywords"), "american tourister"): Text 'american tourister' is set on object 'Object Repository/DDT_category_excel/Page_home_AZ/input_Search Amazon.in_field-keywords'
+
+2024-01-26 18:26:46 - [MESSAGE][PASSED] - Text 'american tourister' is set on object 'Object Repository/DDT_category_excel/Page_home_AZ/input_Search Amazon.in_field-keywords'
+
+2024-01-26 18:26:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/cart_record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button")): Object: 'Object Repository/cart_record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button' is clicked on
+
+2024-01-26 18:27:26 - [MESSAGE][PASSED] - Object: 'Object Repository/cart_record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button' is clicked on
+
+2024-01-26 18:27:26 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-01-26 18:27:30 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/AZ_Homepage/TC_Amazon_cart_script" time="157.743" classname="Test Cases/AZ_Homepage/TC_Amazon_cart_script" status="PASSED">
+         <system-out><![CDATA[2024-01-26 18:27:30 - [TEST_CASE][PASSED] - Test Cases/AZ_Homepage/TC_Amazon_cart_script: Test Cases/AZ_Homepage/TC_Amazon_cart_script
+
+2024-01-26 18:27:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-01-26 18:27:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-01-26 18:27:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-01-26 18:27:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-01-26 18:27:41 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+2024-01-26 18:27:56 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+2024-01-26 18:27:56 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-01-26 18:27:57 - [MESSAGE][PASSED] - Current window maximized
+
+2024-01-26 18:27:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_Cart_script/page_home/span_Cart")): Object: 'Object Repository/AZ_Cart_script/page_home/span_Cart' is clicked on
+
+2024-01-26 18:28:10 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_Cart_script/page_home/span_Cart' is clicked on
+
+2024-01-26 18:28:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_Cart_script/Page_Amazon.in Shopping Cart/a_Shop todays deals")): Object: 'Object Repository/AZ_Cart_script/Page_Amazon.in Shopping Cart/a_Shop todays deals' is clicked on
+
+2024-01-26 18:28:30 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_Cart_script/Page_Amazon.in Shopping Cart/a_Shop todays deals' is clicked on
+
+2024-01-26 18:28:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_Cart_script/Page_Amazon.in - Deals/span_Mobiles")): Object: 'Object Repository/AZ_Cart_script/Page_Amazon.in - Deals/span_Mobiles' is clicked on
+
+2024-01-26 18:28:32 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_Cart_script/Page_Amazon.in - Deals/span_Mobiles' is clicked on
+
+2024-01-26 18:28:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/script_cart_2/Page_Amazon.in - Deals/image mobile")): Object: 'Object Repository/script_cart_2/Page_Amazon.in - Deals/image mobile' is clicked on
+
+2024-01-26 18:28:42 - [MESSAGE][PASSED] - Object: 'Object Repository/script_cart_2/Page_Amazon.in - Deals/image mobile' is clicked on
+
+2024-01-26 18:28:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/script_cart_2/Page_Nokia Feature Phones, starting 999 only/div_Featured_a-section octopus-dlp-image-shield")): Object: 'Object Repository/script_cart_2/Page_Nokia Feature Phones, starting 999 only/div_Featured_a-section octopus-dlp-image-shield' is clicked on
+
+2024-01-26 18:29:27 - [MESSAGE][PASSED] - Object: 'Object Repository/script_cart_2/Page_Nokia Feature Phones, starting 999 only/div_Featured_a-section octopus-dlp-image-shield' is clicked on
+
+2024-01-26 18:29:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_Cart_script/product-page/span_Add to Cart")): Object: 'Object Repository/AZ_Cart_script/product-page/span_Add to Cart' is clicked on
+
+2024-01-26 18:29:35 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_Cart_script/product-page/span_Add to Cart' is clicked on
+
+2024-01-26 18:29:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AZ_Cart_script/product-page/cart element")): Object: 'Object Repository/AZ_Cart_script/product-page/cart element' is clicked on
+
+2024-01-26 18:30:03 - [MESSAGE][PASSED] - Object: 'Object Repository/AZ_Cart_script/product-page/cart element' is clicked on
+
+2024-01-26 18:30:03 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-01-26 18:30:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/AZ_Homepage/TC_AZ_orders" time="91.929" classname="Test Cases/AZ_Homepage/TC_AZ_orders" status="FAILED">
+         <failure type="FAILED" message="Test Cases/AZ_Homepage/TC_AZ_orders FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_AZ_orders.run(TC_AZ_orders:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1706273764847.run(TempTestSuite1706273764847.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image' located by '//div[@id='search']/div/div/div/span/div/div[3]/div/div/span/div/div/div/div/div/div[2]/div/span/a/div/img' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-01-26 18:30:08 - [TEST_CASE][FAILED] - Test Cases/AZ_Homepage/TC_AZ_orders: Test Cases/AZ_Homepage/TC_AZ_orders FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_AZ_orders.run(TC_AZ_orders:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1706273764847.run(TempTestSuite1706273764847.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image' located by '//div[@id='search']/div/div/div/span/div/div[3]/div/div/span/div/div/div/div/div/div[2]/div/span/a/div/img' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-01-26 18:30:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-01-26 18:30:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-01-26 18:30:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-01-26 18:30:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-01-26 18:30:19 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+2024-01-26 18:30:49 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+2024-01-26 18:30:49 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/select_All Categories        Alexa Skills  _a62561"), "search-alias=videogames", true): All options with value 'search-alias=videogames' are selected in object 'Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/select_All Categories        Alexa Skills  _a62561'  using regular expression
+
+2024-01-26 18:30:54 - [MESSAGE][PASSED] - All options with value 'search-alias=videogames' are selected in object 'Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/select_All Categories        Alexa Skills  _a62561'  using regular expression
+
+2024-01-26 18:30:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords")): Object: 'Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords' is clicked on
+
+2024-01-26 18:30:55 - [MESSAGE][PASSED] - Object: 'Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords' is clicked on
+
+2024-01-26 18:30:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords"), "psp"): Text 'psp' is set on object 'Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords'
+
+2024-01-26 18:30:57 - [MESSAGE][PASSED] - Text 'psp' is set on object 'Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords'
+
+2024-01-26 18:30:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button")): Object: 'Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button' is clicked on
+
+2024-01-26 18:31:07 - [MESSAGE][PASSED] - Object: 'Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button' is clicked on
+
+2024-01-26 18:31:07 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image")): Unable to click on object 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_AZ_orders.run(TC_AZ_orders:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1706273764847.run(TempTestSuite1706273764847.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image' located by '//div[@id='search']/div/div/div/span/div/div[3]/div/div/span/div/div/div/div/div/div[2]/div/span/a/div/img' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1706258273183.run(Script1706258273183.groovy:34)
+	... 13 more
+)
+
+2024-01-26 18:31:39 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='search']/div/div/div/span/div/div[3]/div/div/span/div/div/div/div/div/div[2]/div/span/a/div/img'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-01-26 18:31:39 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_AZ_orders.run(TC_AZ_orders:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1706273764847.run(TempTestSuite1706273764847.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image' located by '//div[@id='search']/div/div/div/span/div/div[3]/div/div/span/div/div/div/div/div/div[2]/div/span/a/div/img' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1706258273183.run(Script1706258273183.groovy:34)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\SDC\\git\\SI-GuidedProject-705225-1705139060\\Reports\\20240126_182604\\TC_login\\TC_AZ_OTHERS\\20240126_182604\\1706274099198.png]]]]></system-out>
+         <system-err><![CDATA[2024-01-26 18:30:08 - [TEST_CASE][FAILED] - Test Cases/AZ_Homepage/TC_AZ_orders: Test Cases/AZ_Homepage/TC_AZ_orders FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_AZ_orders.run(TC_AZ_orders:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1706273764847.run(TempTestSuite1706273764847.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image' located by '//div[@id='search']/div/div/div/span/div/div[3]/div/div/span/div/div/div/div/div/div[2]/div/span/a/div/img' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-01-26 18:26:13 - [TEST_SUITE][FAILED] - TC_AZ_OTHERS: Test Cases/AZ_Homepage/TC_AZ_orders FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_AZ_orders.run(TC_AZ_orders:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1706273764847.run(TempTestSuite1706273764847.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image' located by '//div[@id='search']/div/div/div/span/div/div[3]/div/div/span/div/div/div/div/div/div[2]/div/span/a/div/img' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2024-01-26 18:26:13 - [TEST_SUITE][FAILED] - TC_AZ_OTHERS: Test Cases/AZ_Homepage/TC_AZ_orders FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_AZ_orders.run(TC_AZ_orders:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1706273764847.run(TempTestSuite1706273764847.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image' located by '//div[@id='search']/div/div/div/span/div/div[3]/div/div/span/div/div/div/div/div/div[2]/div/span/a/div/img' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

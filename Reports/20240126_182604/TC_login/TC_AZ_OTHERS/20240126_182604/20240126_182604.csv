@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_AZ_OTHERS,Chrome 120.0.0.0,,,2024-01-26 18:26:13,2024-01-26 18:31:39,5m - 25.977s,FAILED
+,,,,,,,
+Test Cases/AZ_Homepage/category and search,Chrome 120.0.0.0,,,2024-01-26 18:26:14,2024-01-26 18:27:30,1m - 15.608s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-26 18:26:16,2024-01-26 18:26:32,16.852s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,2024-01-26 18:26:32,2024-01-26 18:26:41,8.573s,PASSED
+"setText(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_field-keywords""), ""american tourister"")",Chrome 120.0.0.0,,,2024-01-26 18:26:41,2024-01-26 18:26:46,4.757s,PASSED
+"click(findTestObject(""Object Repository/cart_record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button""))",Chrome 120.0.0.0,,,2024-01-26 18:26:46,2024-01-26 18:27:26,40.419s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-26 18:27:26,2024-01-26 18:27:30,3.578s,PASSED
+,,,,,,,
+Test Cases/AZ_Homepage/TC_Amazon_cart_script,Chrome 120.0.0.0,,,2024-01-26 18:27:30,2024-01-26 18:30:08,2m - 37.743s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-26 18:27:31,2024-01-26 18:27:41,10.873s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,2024-01-26 18:27:41,2024-01-26 18:27:56,14.375s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2024-01-26 18:27:56,2024-01-26 18:27:57,0.796s,PASSED
+"click(findTestObject(""Object Repository/AZ_Cart_script/page_home/span_Cart""))",Chrome 120.0.0.0,,,2024-01-26 18:27:57,2024-01-26 18:28:10,12.941s,PASSED
+"click(findTestObject(""Object Repository/AZ_Cart_script/Page_Amazon.in Shopping Cart/a_Shop todays deals""))",Chrome 120.0.0.0,,,2024-01-26 18:28:10,2024-01-26 18:28:30,19.959s,PASSED
+"click(findTestObject(""Object Repository/AZ_Cart_script/Page_Amazon.in - Deals/span_Mobiles""))",Chrome 120.0.0.0,,,2024-01-26 18:28:30,2024-01-26 18:28:32,2.335s,PASSED
+"click(findTestObject(""Object Repository/script_cart_2/Page_Amazon.in - Deals/image mobile""))",Chrome 120.0.0.0,,,2024-01-26 18:28:32,2024-01-26 18:28:42,10.334s,PASSED
+"click(findTestObject(""Object Repository/script_cart_2/Page_Nokia Feature Phones, starting 999 only/div_Featured_a-section octopus-dlp-image-shield""))",Chrome 120.0.0.0,,,2024-01-26 18:28:42,2024-01-26 18:29:27,44.689s,PASSED
+"click(findTestObject(""Object Repository/AZ_Cart_script/product-page/span_Add to Cart""))",Chrome 120.0.0.0,,,2024-01-26 18:29:27,2024-01-26 18:29:35,8.159s,PASSED
+"click(findTestObject(""Object Repository/AZ_Cart_script/product-page/cart element""))",Chrome 120.0.0.0,,,2024-01-26 18:29:35,2024-01-26 18:30:03,28.096s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-26 18:30:03,2024-01-26 18:30:08,4.388s,PASSED
+,,,,,,,
+Test Cases/AZ_Homepage/TC_AZ_orders,Chrome 120.0.0.0,,,2024-01-26 18:30:08,2024-01-26 18:31:39,1m - 31.929s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-26 18:30:08,2024-01-26 18:30:19,11.034s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,2024-01-26 18:30:19,2024-01-26 18:30:49,29.152s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/select_All Categories        Alexa Skills  _a62561""), ""search-alias=videogames"", true)",Chrome 120.0.0.0,,,2024-01-26 18:30:49,2024-01-26 18:30:54,5.750s,PASSED
+"click(findTestObject(""Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords""))",Chrome 120.0.0.0,,,2024-01-26 18:30:54,2024-01-26 18:30:55,1.081s,PASSED
+"setText(findTestObject(""Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords""), ""psp"")",Chrome 120.0.0.0,,,2024-01-26 18:30:55,2024-01-26 18:30:57,1.176s,PASSED
+"click(findTestObject(""Object Repository/TC_orders_Record/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button""))",Chrome 120.0.0.0,,,2024-01-26 18:30:57,2024-01-26 18:31:07,10.762s,PASSED
+"click(findTestObject(""Object Repository/TC_orders_Record/Page_Amazon.in  psp/img_Best seller_s-image""))",Chrome 120.0.0.0,,,2024-01-26 18:31:07,2024-01-26 18:31:39,32.164s,FAILED

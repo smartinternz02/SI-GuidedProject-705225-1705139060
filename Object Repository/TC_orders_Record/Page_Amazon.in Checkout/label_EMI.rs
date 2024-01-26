@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_EMI</name>
+   <tag></tag>
+   <elementGuidId>b57cc0ed-2965-47bd-9797-06796367fa10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-radio.a-spacing-top-micro > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pp-91CgmX-127']/div/div/div/div/span/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>34131fea-e770-47da-bd5d-3e8b915614a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>pp-91CgmX-128</value>
+      <webElementGuid>824e1bdc-1325-4bac-b228-7e6bcafa4593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EMI</value>
+      <webElementGuid>b816029a-5a74-4a28-8b1a-4efb43e08f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pp-91CgmX-127&quot;)/div[@class=&quot;a-box-inner a-padding-small&quot;]/div[@class=&quot;a-fixed-left-grid a-spacing-top-base&quot;]/div[@class=&quot;a-fixed-left-grid-inner&quot;]/div[@class=&quot;a-fixed-left-grid-col a-col-left&quot;]/span[1]/div[@class=&quot;a-radio a-spacing-top-micro&quot;]/label[1]</value>
+      <webElementGuid>b28ae758-012d-470e-baab-d57a136f3cba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pp-91CgmX-127']/div/div/div/div/span/div/label</value>
+      <webElementGuid>197cc89e-f1b7-4eaf-baea-b738f76d3041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter a valid UPI ID'])[1]/following::label[1]</value>
+      <webElementGuid>a2e93c7f-fc14-4c1a-b57a-a0e1bf57b8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The UPI ID is in the format of name/phone number@bankname'])[1]/following::label[1]</value>
+      <webElementGuid>0c4762b4-f844-4501-9bd6-f9e63c64e486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMI'])[2]/preceding::label[1]</value>
+      <webElementGuid>a0d3f80c-65eb-4ec8-8cc9-19ce4eca2f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/span/div/label</value>
+      <webElementGuid>3c819f7f-a3d2-42a3-a277-c99bf99ceff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'EMI' or . = 'EMI')]</value>
+      <webElementGuid>ef9e2388-18c7-4f28-9024-b41bb085bad6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

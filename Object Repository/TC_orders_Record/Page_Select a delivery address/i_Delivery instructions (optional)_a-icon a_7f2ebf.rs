@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Delivery instructions (optional)_a-icon a_7f2ebf</name>
+   <tag></tag>
+   <elementGuidId>c6904266-dbdb-45fb-a410-7c6a7a235e86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.a-icon.a-icon-collapse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='address-ui-widgets-enterAddressFormContainer']/div[10]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>50a80c03-d3bc-4f23-a3e7-a1f0231c572c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-collapse</value>
+      <webElementGuid>bcbe570a-eee0-4b06-8127-f51161d6b915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;address-ui-widgets-enterAddressFormContainer&quot;)/div[@class=&quot;a-row a-expander-container a-expander-inline-container address-ui-widgets-desktop-delivery-instructions-expander&quot;]/a[@class=&quot;a-expander-header a-declarative a-expander-inline-header a-link-expander&quot;]/i[@class=&quot;a-icon a-icon-collapse&quot;]</value>
+      <webElementGuid>37ffcd97-23e4-4427-a2ac-053437ca1da8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='address-ui-widgets-enterAddressFormContainer']/div[10]/a/i</value>
+      <webElementGuid>e370d152-b463-40e5-bc6a-f4166a18d01a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>a8e5fabb-392d-4f1e-a598-4fb4c937b74c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
