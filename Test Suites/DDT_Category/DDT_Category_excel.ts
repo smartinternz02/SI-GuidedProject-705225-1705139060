@@ -15,7 +15,7 @@
       <guid>47e42c73-6dd9-4bd1-925b-54c032f5bc02</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AZ_Homepage/DDT_category_excel</testCaseId>
+      <testCaseId>Test Cases/AZ_Homepage/DDT_TC_AZ_category_excel_001</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>89203bb1-b7aa-4417-ba09-5ced529616b0</id>

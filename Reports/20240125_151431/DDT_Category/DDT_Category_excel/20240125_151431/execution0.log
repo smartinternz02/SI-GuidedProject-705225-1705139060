@@ -1295,3 +1295,4 @@ Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObje
   <nestedLevel>1</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
+</log>

@@ -1,0 +1,33 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_login_all,Chrome 120.0.0.0,,,2024-01-28 22:51:47,2024-01-28 22:56:49,5m - 2.595s,PASSED
+,,,,,,,
+Test Cases/AZ_Homepage/TC_Amazon_login_001,Chrome 120.0.0.0,,,2024-01-28 22:51:48,2024-01-28 22:54:56,3m - 7.798s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 120.0.0.0,,,2024-01-28 22:51:48,2024-01-28 22:51:53,5.014s,ERROR
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-28 22:51:54,2024-01-28 22:52:37,42.203s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,2024-01-28 22:52:37,2024-01-28 22:53:11,34.318s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in""))",Chrome 120.0.0.0,,,2024-01-28 22:53:11,2024-01-28 22:53:55,43.943s,PASSED
+"setText(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/input_Email or mobile phone number_email""), ""ramkumar@gmail.com"")",Chrome 120.0.0.0,,,2024-01-28 22:53:55,2024-01-28 22:54:02,7.123s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402""))",Chrome 120.0.0.0,,,2024-01-28 22:54:02,2024-01-28 22:54:09,7.031s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/input_Forgot Password_password""), ""+mJ1/ixjegi/1jYArk0UbQ=="")",Chrome 120.0.0.0,,,2024-01-28 22:54:09,2024-01-28 22:54:11,1.581s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your password_rememberMe""))",Chrome 120.0.0.0,,,2024-01-28 22:54:11,2024-01-28 22:54:11,0.648s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/input_Enter your password_signInSubmit""))",Chrome 120.0.0.0,,,2024-01-28 22:54:11,2024-01-28 22:54:15,4.020s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Sign In/a_Forgot Password""))",Chrome 120.0.0.0,,,2024-01-28 22:54:15,2024-01-28 22:54:19,3.575s,PASSED
+"setText(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Email or mobile phone number_email""), ""ramkumar@gmail.com"")",Chrome 120.0.0.0,,,2024-01-28 22:54:19,2024-01-28 22:54:21,2.137s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Enter your email or mobile phone numb_fc7402""))",Chrome 120.0.0.0,,,2024-01-28 22:54:21,2024-01-28 22:54:22,1.224s,PASSED
+"setText(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_ZIP code (or Postal Code)_zipCode""), ""5415o442o"")",Chrome 120.0.0.0,,,2024-01-28 22:54:22,2024-01-28 22:54:24,2.194s,PASSED
+"click(findTestObject(""Object Repository/AZ_login_record/Page_Amazon Password Assistance/input_Enter your email or mobile phone numb_fc7402""))",Chrome 120.0.0.0,,,2024-01-28 22:54:24,2024-01-28 22:54:36,11.511s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-28 22:54:36,2024-01-28 22:54:55,19.464s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,2024-01-28 22:54:55,2024-01-28 22:54:56,0.257s,ERROR
+,,,,,,,
+Test Cases/AZ_Homepage/TC_AZ_login_manual,Chrome 120.0.0.0,,,2024-01-28 22:54:56,2024-01-28 22:56:49,1m - 53.517s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 120.0.0.0,,,2024-01-28 22:54:56,2024-01-28 22:54:56,0.322s,ERROR
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-28 22:54:57,2024-01-28 22:55:11,14.455s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 120.0.0.0,,,2024-01-28 22:55:11,2024-01-28 22:55:46,34.356s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2024-01-28 22:55:46,2024-01-28 22:56:04,18.263s,PASSED
+"click(findTestObject(""AZ_login_manual/Page_Online Shopping site in India Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in/span_Hello, sign in""))",Chrome 120.0.0.0,,,2024-01-28 22:56:04,2024-01-28 22:56:34,30.017s,PASSED
+"setText(findTestObject(""AZ_login_manual/Page_Amazon Sign In/input_Email or mobile phone number_email""), ""ramkumar@gmail.com"")",Chrome 120.0.0.0,,,2024-01-28 22:56:34,2024-01-28 22:56:39,5.248s,PASSED
+"click(findTestObject(""AZ_login_manual/Page_Amazon Sign In/input_Enter your email or mobile phone number_continue""))",Chrome 120.0.0.0,,,2024-01-28 22:56:39,2024-01-28 22:56:41,2.163s,PASSED
+"setText(findTestObject(""AZ_login_manual/Page_Amazon Sign In/input_Forgot Password_password""), ""login@123"")",Chrome 120.0.0.0,,,2024-01-28 22:56:41,2024-01-28 22:56:44,2.567s,PASSED
+"click(findTestObject(""AZ_login_manual/Page_Amazon Sign In/input_Enter your password_signInSubmit""))",Chrome 120.0.0.0,,,2024-01-28 22:56:44,2024-01-28 22:56:48,3.726s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-28 22:56:48,2024-01-28 22:56:49,1.362s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 120.0.0.0,,,2024-01-28 22:56:49,2024-01-28 22:56:49,0.196s,ERROR

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test_listeners_Amazon" time="67.062" tests="0" failures="0" errors="0">
+   <testsuite name="Test_listeners_Amazon" tests="0" failures="0" errors="0" time="67.062" skipped="0" timestamp="2024-01-28 15:26:51" hostname="SDC - DESKTOP-RQ2KGBA" id="Test Suites/Test_listeners/Test_listeners_Amazon">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\SDC\\git\\SI-GuidedProject-705225-1705139060\\Reports\\20240128_152604\\Test_listeners\\Test_listeners_Amazon\\20240128_152604"/>
+         <property name="logFiles" value="C:\\Users\\SDC\\git\\SI-GuidedProject-705225-1705139060\\Reports\\20240128_152604\\Test_listeners\\Test_listeners_Amazon\\20240128_152604\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="SDC - DESKTOP-RQ2KGBA"/>
+         <property name="hostAddress" value="192.168.29.232"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+      </properties>
+      <system-out><![CDATA[2024-01-28 15:26:51 - [TEST_SUITE][PASSED] - Test_listeners_Amazon: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_listeners_Amazon,,,,2024-01-28 22:51:47,2024-01-28 22:58:24,6m - 37.534s,PASSED
+,,,,,,,
+Test Cases/AZ_Homepage/Test_listener_01,,,,2024-01-28 22:57:48,2024-01-28 22:58:24,35.769s,PASSED
+Start listener action : sampleBeforeTestCase,,,,2024-01-28 22:57:49,2024-01-28 22:58:03,13.684s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TL_login_or/Page_Online Shopping site in India Shop Onl_10c5f3/select_All Categories        Alexa Skills  _a62561""), ""search-alias=fashion"", true)",,,,2024-01-28 22:58:03,2024-01-28 22:58:18,14.357s,PASSED
+"setText(findTestObject(""Object Repository/TL_login_or/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords""), ""blazers"")",,,,2024-01-28 22:58:18,2024-01-28 22:58:19,1.302s,PASSED
+Start listener action : sampleAfterTestCase,,,,2024-01-28 22:58:19,2024-01-28 22:58:24,5.294s,PASSED

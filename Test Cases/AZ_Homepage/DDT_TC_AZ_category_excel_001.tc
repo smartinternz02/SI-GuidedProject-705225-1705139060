@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>DDT_category_excel</name>
+   <name>DDT_TC_AZ_category_excel_001</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>9fe71991-4e96-47c3-8dfc-dea55ee63cc3</testCaseGuid>
@@ -21,14 +21,14 @@
       <defaultValue>''</defaultValue>
       <description></description>
       <id>27eac15f-b508-4bc9-b75d-f9da1ba8c2c3</id>
-      <masked>false</masked>
+      <masked>true</masked>
       <name>Category</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
       <id>621316d2-f7bc-4f1d-a6d3-05afde51cbc3</id>
-      <masked>false</masked>
+      <masked>true</masked>
       <name>Items</name>
    </variable>
 </TestCaseEntity>

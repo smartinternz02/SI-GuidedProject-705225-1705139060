@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_login_all,,,,2024-01-28 22:59:31,2024-01-28 22:59:51,20.371s,FAILED
+,,,,,,,
+Test Cases/AZ_Homepage/TC_Amazon_login_001,,,,2024-01-28 22:59:31,2024-01-28 22:59:49,17.595s,FAILED
+Start listener action : sampleBeforeTestCase,,,,2024-01-28 22:59:31,2024-01-28 22:59:35,3.380s,ERROR
+"openBrowser("""")",,,,2024-01-28 22:59:36,2024-01-28 22:59:49,13.092s,FAILED
+Start listener action : sampleAfterTestCase,,,,2024-01-28 22:59:49,2024-01-28 22:59:49,0.161s,ERROR
+,,,,,,,
+Test Cases/AZ_Homepage/TC_AZ_login_manual,,,,2024-01-28 22:59:49,2024-01-28 22:59:51,2.029s,FAILED
+Start listener action : sampleBeforeTestCase,,,,2024-01-28 22:59:49,2024-01-28 22:59:49,0.183s,ERROR
+"openBrowser("""")",,,,2024-01-28 22:59:50,2024-01-28 22:59:51,0.898s,FAILED
+Start listener action : sampleAfterTestCase,,,,2024-01-28 22:59:51,2024-01-28 22:59:51,0.158s,ERROR

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test_listeners_Amazon" time="397.534" tests="1" failures="0" errors="0">
+   <testsuite name="Test_listeners_Amazon" tests="1" failures="0" errors="0" time="397.534" skipped="0" timestamp="2024-01-28 22:51:47" hostname="SDC - DESKTOP-RQ2KGBA" id="Test Suites/Test_listeners/Test_listeners_Amazon">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\SDC\\git\\SI-GuidedProject-705225-1705139060\\Reports\\20240128_225119\\Test_listeners\\Test_listeners_Amazon\\20240128_225125"/>
+         <property name="logFiles" value="C:\\Users\\SDC\\git\\SI-GuidedProject-705225-1705139060\\Reports\\20240128_225119\\Test_listeners\\Test_listeners_Amazon\\20240128_225125\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="SDC - DESKTOP-RQ2KGBA"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value=""/>
+         <property name="hostAddress" value="192.168.29.232"/>
+         <property name="sessionId" value="8ecda3601c131116e993a411117f237a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/AZ_Homepage/Test_listener_01" time="35.769" classname="Test Cases/AZ_Homepage/Test_listener_01" status="PASSED">
+         <system-out><![CDATA[2024-01-28 22:57:48 - [TEST_CASE][PASSED] - Test Cases/AZ_Homepage/Test_listener_01: Test Cases/AZ_Homepage/Test_listener_01
+
+2024-01-28 22:57:49 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Object: 'Object Repository/TL_login_or/Page_Amazon Sign In/input_Enter your password_signInSubmit' is clicked on
+
+2024-01-28 22:57:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TL_login_or/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in")): Object: 'Object Repository/TL_login_or/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in' is clicked on
+
+2024-01-28 22:57:55 - [MESSAGE][PASSED] - Object: 'Object Repository/TL_login_or/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in' is clicked on
+
+2024-01-28 22:57:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TL_login_or/Page_Amazon Sign In/input_Email or mobile phone number_email"), "mnvramkumar2001@gmail.com"): Text 'mnvramkumar2001@gmail.com' is set on object 'Object Repository/TL_login_or/Page_Amazon Sign In/input_Email or mobile phone number_email'
+
+2024-01-28 22:57:58 - [MESSAGE][PASSED] - Text 'mnvramkumar2001@gmail.com' is set on object 'Object Repository/TL_login_or/Page_Amazon Sign In/input_Email or mobile phone number_email'
+
+2024-01-28 22:57:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TL_login_or/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402")): Object: 'Object Repository/TL_login_or/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+2024-01-28 22:58:00 - [MESSAGE][PASSED] - Object: 'Object Repository/TL_login_or/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+2024-01-28 22:58:00 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TL_login_or/Page_Amazon Sign In/input_Forgot Password_password"), "pdyTcV2mF1w+k4p48miQbw=="): Text ****** has been set on object 'Object Repository/TL_login_or/Page_Amazon Sign In/input_Forgot Password_password'
+
+2024-01-28 22:58:01 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TL_login_or/Page_Amazon Sign In/input_Forgot Password_password'
+
+2024-01-28 22:58:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TL_login_or/Page_Amazon Sign In/input_Enter your password_signInSubmit")): Object: 'Object Repository/TL_login_or/Page_Amazon Sign In/input_Enter your password_signInSubmit' is clicked on
+
+2024-01-28 22:58:03 - [MESSAGE][PASSED] - Object: 'Object Repository/TL_login_or/Page_Amazon Sign In/input_Enter your password_signInSubmit' is clicked on
+
+2024-01-28 22:58:03 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/TL_login_or/Page_Online Shopping site in India Shop Onl_10c5f3/select_All Categories        Alexa Skills  _a62561"), "search-alias=fashion", true): All options with value 'search-alias=fashion' are selected in object 'Object Repository/TL_login_or/Page_Online Shopping site in India Shop Onl_10c5f3/select_All Categories        Alexa Skills  _a62561'  using regular expression
+
+2024-01-28 22:58:18 - [MESSAGE][PASSED] - All options with value 'search-alias=fashion' are selected in object 'Object Repository/TL_login_or/Page_Online Shopping site in India Shop Onl_10c5f3/select_All Categories        Alexa Skills  _a62561'  using regular expression
+
+2024-01-28 22:58:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TL_login_or/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords"), "blazers"): Text 'blazers' is set on object 'Object Repository/TL_login_or/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords'
+
+2024-01-28 22:58:19 - [MESSAGE][PASSED] - Text 'blazers' is set on object 'Object Repository/TL_login_or/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords'
+
+2024-01-28 22:58:19 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Object: 'Object Repository/TL_login_or/Page_Amazon.in  blazers/a_Sign Out' is clicked on
+
+2024-01-28 22:58:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TL_login_or/Page_Amazon.in  blazers/a_All")): Object: 'Object Repository/TL_login_or/Page_Amazon.in  blazers/a_All' is clicked on
+
+2024-01-28 22:58:20 - [MESSAGE][PASSED] - Object: 'Object Repository/TL_login_or/Page_Amazon.in  blazers/a_All' is clicked on
+
+2024-01-28 22:58:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TL_login_or/Page_Amazon.in  blazers/a_Sign Out")): Object: 'Object Repository/TL_login_or/Page_Amazon.in  blazers/a_Sign Out' is clicked on
+
+2024-01-28 22:58:24 - [MESSAGE][PASSED] - Object: 'Object Repository/TL_login_or/Page_Amazon.in  blazers/a_Sign Out' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-01-28 22:51:47 - [TEST_SUITE][PASSED] - Test_listeners_Amazon: Test Cases/AZ_Homepage/Test_listener_01]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
