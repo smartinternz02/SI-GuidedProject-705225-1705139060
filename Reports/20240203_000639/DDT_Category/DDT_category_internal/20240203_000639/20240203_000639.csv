@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DDT_category_internal,Chrome 121.0.0.0,,,2024-02-03 00:06:49,2024-02-03 00:08:48,1m - 59.086s,PASSED
+,,,,,,,
+Test Cases/AZ_Homepage/DDT_internal_002,Chrome 121.0.0.0,,,2024-02-03 00:06:50,2024-02-03 00:07:34,44.066s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-02-03 00:06:51,2024-02-03 00:06:53,2.101s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-03 00:06:54,2024-02-03 00:07:03,9.569s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,2024-02-03 00:07:03,2024-02-03 00:07:06,2.793s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,2024-02-03 00:07:06,2024-02-03 00:07:22,15.810s,PASSED
+"selectOptionByLabel(findTestObject(""DDT_category_excel/Page_home_AZ/Category element""), findTestData(""DDT_category/DDT_category_internal data"").getValue(1, 1), false)",Chrome 121.0.0.0,,,2024-02-03 00:07:22,2024-02-03 00:07:25,2.586s,PASSED
+"setMaskedText(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_field-keywords""), findTestData(""DDT_category/DDT_category_internal data"").getValue(2, 1))",Chrome 121.0.0.0,,,2024-02-03 00:07:25,2024-02-03 00:07:27,2.295s,PASSED
+"click(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_nav-search-submit-button""))",Chrome 121.0.0.0,,,2024-02-03 00:07:27,2024-02-03 00:07:33,5.611s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-02-03 00:07:33,2024-02-03 00:07:34,1.403s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-02-03 00:07:34,2024-02-03 00:07:34,0.190s,ERROR
+,,,,,,,
+Test Cases/AZ_Homepage/DDT_internal_002,Chrome 121.0.0.0,,,2024-02-03 00:07:34,2024-02-03 00:08:08,33.832s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-02-03 00:07:34,2024-02-03 00:07:34,0.194s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-03 00:07:34,2024-02-03 00:07:39,4.890s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,2024-02-03 00:07:39,2024-02-03 00:07:55,15.847s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,2024-02-03 00:07:55,2024-02-03 00:07:56,0.326s,PASSED
+"selectOptionByLabel(findTestObject(""DDT_category_excel/Page_home_AZ/Category element""), findTestData(""DDT_category/DDT_category_internal data"").getValue(1, 1), false)",Chrome 121.0.0.0,,,2024-02-03 00:07:56,2024-02-03 00:07:59,3.811s,PASSED
+"setMaskedText(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_field-keywords""), findTestData(""DDT_category/DDT_category_internal data"").getValue(2, 1))",Chrome 121.0.0.0,,,2024-02-03 00:07:59,2024-02-03 00:08:02,2.419s,PASSED
+"click(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_nav-search-submit-button""))",Chrome 121.0.0.0,,,2024-02-03 00:08:02,2024-02-03 00:08:07,5.088s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-02-03 00:08:07,2024-02-03 00:08:08,1.034s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-02-03 00:08:08,2024-02-03 00:08:08,0.184s,ERROR
+,,,,,,,
+Test Cases/AZ_Homepage/DDT_internal_002,Chrome 121.0.0.0,,,2024-02-03 00:08:08,2024-02-03 00:08:48,39.933s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-02-03 00:08:08,2024-02-03 00:08:08,0.239s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-03 00:08:08,2024-02-03 00:08:11,2.716s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,2024-02-03 00:08:11,2024-02-03 00:08:31,19.658s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,2024-02-03 00:08:31,2024-02-03 00:08:31,0.604s,PASSED
+"selectOptionByLabel(findTestObject(""DDT_category_excel/Page_home_AZ/Category element""), findTestData(""DDT_category/DDT_category_internal data"").getValue(1, 1), false)",Chrome 121.0.0.0,,,2024-02-03 00:08:31,2024-02-03 00:08:35,3.598s,PASSED
+"setMaskedText(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_field-keywords""), findTestData(""DDT_category/DDT_category_internal data"").getValue(2, 1))",Chrome 121.0.0.0,,,2024-02-03 00:08:35,2024-02-03 00:08:37,2.287s,PASSED
+"click(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_nav-search-submit-button""))",Chrome 121.0.0.0,,,2024-02-03 00:08:37,2024-02-03 00:08:46,9.139s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-02-03 00:08:46,2024-02-03 00:08:48,1.488s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-02-03 00:08:48,2024-02-03 00:08:48,0.172s,ERROR

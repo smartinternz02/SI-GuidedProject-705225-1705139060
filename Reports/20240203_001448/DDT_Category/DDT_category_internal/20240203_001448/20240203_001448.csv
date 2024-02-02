@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DDT_category_internal,Chrome 121.0.0.0,,,2024-02-03 00:14:55,2024-02-03 00:16:56,2m - 0.784s,PASSED
+,,,,,,,
+Test Cases/AZ_Homepage/DDT_internal_002,Chrome 121.0.0.0,,,2024-02-03 00:14:56,2024-02-03 00:15:49,52.841s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-02-03 00:14:56,2024-02-03 00:14:57,0.995s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-03 00:14:58,2024-02-03 00:15:09,11.318s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,2024-02-03 00:15:09,2024-02-03 00:15:29,19.511s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,2024-02-03 00:15:29,2024-02-03 00:15:33,4.010s,PASSED
+"selectOptionByLabel(findTestObject(""DDT_category_excel/Page_home_AZ/Category element""), Category, false)",Chrome 121.0.0.0,,,2024-02-03 00:15:33,2024-02-03 00:15:39,6.570s,PASSED
+"setMaskedText(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_field-keywords""), Items)",Chrome 121.0.0.0,,,2024-02-03 00:15:39,2024-02-03 00:15:42,2.797s,PASSED
+"click(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_nav-search-submit-button""))",Chrome 121.0.0.0,,,2024-02-03 00:15:42,2024-02-03 00:15:48,5.284s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-02-03 00:15:48,2024-02-03 00:15:49,1.257s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-02-03 00:15:49,2024-02-03 00:15:49,0.213s,ERROR
+,,,,,,,
+Test Cases/AZ_Homepage/DDT_internal_002,Chrome 121.0.0.0,,,2024-02-03 00:15:49,2024-02-03 00:16:20,31.106s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-02-03 00:15:49,2024-02-03 00:15:49,0.175s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-03 00:15:49,2024-02-03 00:15:55,5.802s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,2024-02-03 00:15:55,2024-02-03 00:16:08,12.765s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,2024-02-03 00:16:08,2024-02-03 00:16:08,0.233s,PASSED
+"selectOptionByLabel(findTestObject(""DDT_category_excel/Page_home_AZ/Category element""), Category, false)",Chrome 121.0.0.0,,,2024-02-03 00:16:08,2024-02-03 00:16:12,3.301s,PASSED
+"setMaskedText(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_field-keywords""), Items)",Chrome 121.0.0.0,,,2024-02-03 00:16:12,2024-02-03 00:16:13,1.381s,PASSED
+"click(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_nav-search-submit-button""))",Chrome 121.0.0.0,,,2024-02-03 00:16:13,2024-02-03 00:16:19,6.076s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-02-03 00:16:19,2024-02-03 00:16:20,1.082s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-02-03 00:16:20,2024-02-03 00:16:20,0.164s,ERROR
+,,,,,,,
+Test Cases/AZ_Homepage/DDT_internal_002,Chrome 121.0.0.0,,,2024-02-03 00:16:20,2024-02-03 00:16:56,35.838s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,2024-02-03 00:16:20,2024-02-03 00:16:20,0.132s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-03 00:16:20,2024-02-03 00:16:22,1.677s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,2024-02-03 00:16:22,2024-02-03 00:16:42,19.943s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,2024-02-03 00:16:42,2024-02-03 00:16:43,0.492s,PASSED
+"selectOptionByLabel(findTestObject(""DDT_category_excel/Page_home_AZ/Category element""), Category, false)",Chrome 121.0.0.0,,,2024-02-03 00:16:43,2024-02-03 00:16:46,3.116s,PASSED
+"setMaskedText(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_field-keywords""), Items)",Chrome 121.0.0.0,,,2024-02-03 00:16:46,2024-02-03 00:16:49,3.310s,PASSED
+"click(findTestObject(""DDT_category_excel/Page_home_AZ/input_Search Amazon.in_nav-search-submit-button""))",Chrome 121.0.0.0,,,2024-02-03 00:16:49,2024-02-03 00:16:54,5.303s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-02-03 00:16:54,2024-02-03 00:16:56,1.652s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,2024-02-03 00:16:56,2024-02-03 00:16:56,0.181s,ERROR
